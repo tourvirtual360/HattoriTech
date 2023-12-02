@@ -3,7 +3,7 @@
 ## Tour
 
 ### Description
-tour.description = Nossas soluções utilizadas na Expo Amazõnia Bio&Tech 2023
+tour.description = Nossas soluções utilizadas na Expo Amazônia Bio&Tech 2023
 
 ### Title
 tour.name = Hattori Tech 
@@ -33,9 +33,12 @@ video_3087DBEF_2BA3_E57F_41A9_AD3945FF95E6.label = VÍDEO
 ## Hotspot
 
 ### Tooltip
+HotspotPanoramaOverlayArea_300229AC_2BA3_A5E1_41B8_6A810974682F.toolTip = BALANÇO LED
 HotspotPanoramaOverlayArea_31277C26_2BE2_E2E1_41BA_B335C7C489B9.toolTip = TRANSMISSÃO DE LIVE
 HotspotPanoramaOverlayArea_31497E03_2BA6_9EA7_41B5_1D7D815C989E.toolTip = IR PARA BALANÇO LED
 HotspotPanoramaOverlayArea_316E0CFF_2BA5_635F_41BA_C7BCE420D056.toolTip = IR PARA PLATAFORMA 360°
+HotspotPanoramaOverlayArea_31AD4774_2BA2_AD62_41A7_D7BCC4F2570A.toolTip = BALANÇO LED
+HotspotPanoramaOverlayArea_377A104E_2BA5_E2A1_41B3_02CC40403C50.toolTip = PLATAFORMA 360°
 
 ## Action
 
