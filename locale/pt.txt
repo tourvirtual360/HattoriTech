@@ -1,0 +1,48 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Nossas soluções utilizadas na Expo Amazõnia Bio&Tech 2023
+
+### Title
+tour.name = Hattori Tech 
+
+## Skin
+
+### Button
+Button_3255B101_2BE2_A2A3_41B7_FC366FC93B3B.label = PLATAFORMA 360°
+Button_3255B101_2BE2_A2A3_41B7_FC366FC93B3B_mobile.label = PLATAFORMA 360°
+Button_32B1D501_2BE2_A2A3_41B1_EE2EF053B9E9.label = BALANÇO LED
+Button_32B1D501_2BE2_A2A3_41B1_EE2EF053B9E9_mobile.label = BALANÇO LED
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = TRANSMISSÃO DE LIVE
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = TRANSMISSÃO DE LIVE
+
+## Media
+
+### Title
+panorama_32B6C0A7_2BE2_A3EF_41C5_20A7DFB881F0.label = IMG_20231130_175007_00_merged
+panorama_3CD25E7A_2BE3_9F61_41BF_CBE7DDE8A339.label = IMG_20231130_175131_00_merged
+panorama_3CED2698_2BE2_AFA1_4196_ACB1237AE003.label = IMG_20231130_190209_00_merged
+panorama_3CED7E3B_2BE2_FEE7_41C0_EBB4135ED1C7.label = IMG_20231130_182134_00_merged
+panorama_3CEDC0DB_2BE2_A3A7_419E_95945FB782DB.label = IMG_20231130_181959_00_merged
+panorama_3CEEA740_2BE3_EEA1_41C0_9C083DEFB25C.label = IMG_20231130_175545_00_merged
+panorama_3CEEAA9A_2BE3_A7A1_41A0_BE619FE31F9F.label = IMG_20231130_175806_00_merged
+video_3087DBEF_2BA3_E57F_41A9_AD3945FF95E6.label = VÍDEO
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_31277C26_2BE2_E2E1_41BA_B335C7C489B9.toolTip = TRANSMISSÃO DE LIVE
+HotspotPanoramaOverlayArea_31497E03_2BA6_9EA7_41B5_1D7D815C989E.toolTip = IR PARA BALANÇO LED
+HotspotPanoramaOverlayArea_316E0CFF_2BA5_635F_41BA_C7BCE420D056.toolTip = IR PARA PLATAFORMA 360°
+
+## Action
+
+### URL
+LinkBehaviour_30C6918B_2BA2_A5A7_41BC_2EB2372EB224.source = https://wa.link/ibgtxm
+LinkBehaviour_30D6AD69_2A66_FD63_41C3_26E9B714E7D3.source = https://hattoritech.com/
+LinkBehaviour_32ADA4F1_2BE5_E363_41BA_CE72633B8FD9.source = https://hattoritech.com/
+LinkBehaviour_374A3B6F_2A65_657F_41B1_A2C59BF0AB52.source = https://www.instagram.com/hattoritech/
+LinkBehaviour_37DFAE04_2A67_7EA1_419A_9757456A688D.source = https://www.instagram.com/hattoritech/
+LinkBehaviour_37F0D14B_2A65_A2A7_41A4_F9FCFE2AFBD4.source = https://wa.link/ibgtxm
